@@ -1,0 +1,16 @@
+===============================================================================================================================
+
+This is the sample file where you all need to make changes, dont delete any of the existing lines in this file.
+
+Task
+====
+1. Add your intro script to this file and push the changes as mentioned in the story.
+
+Example:
+========
+Sai Kolli: Hi! This is Sai Kolli, I am currently working as a Java full Stack Developer and I do have 7+ years of experience
+in the software industry. I am expertise in Java and React.
+
+
+===============================================================================================================================
+
