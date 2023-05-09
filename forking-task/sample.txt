@@ -13,6 +13,11 @@ in the software industry. I am expertise in Java and React.
 
 
 ===============================================================================================================================
+
+Delli Babu : Hello all! I am a Full stack developer currently in the market looking for a new oppurtunity. Let me know if
+you come across such oppurtunitites.
+
+===============================================================================================================================
  Mounika: Hi, I'm Mounika. I have like over 7 years of experience as a Java full stack developer. So, as a full stack developer, I've contributed, my entire application, like front end middleware backend database, but I'm more into like the back end application development so say more than 70% I have used the back end technologies and Java, Spring, Spring Boot with microservices as well as monolithic based applications where I've used JSP servlet and database interaction frameworks like hibernate, JPA, JDBC and testing with Junit and Mockito all of these things is what I've done so far. And apart from that the databases which I've worked on like more on the SQL side of it, so where I've used Oracle Postgres SQL, MySQL, and on the NO-SQL also I have little bit of experience working with MongoDB and DynamoDB, which is on AWS. On the AWS apart from DynamoDB, I do have a little bit of experience around like EC2, ECS, ECR and like s3 buckets, RDS, and IAM security groups and all these things. So, then like I've used tools like sonar lint, sonar cube for code quality and Swagger is what I've used for documentation mainly, and coming to  the front end part
           I've worked with HTML, CSS, JavaScript bootstrap, Angular, and testing frameworks like jasmine and karma,
           and also have upskilled with React and I am comfortable with the React , but my projects were more on the angular side.
