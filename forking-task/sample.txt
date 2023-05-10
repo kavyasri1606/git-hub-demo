@@ -11,6 +11,10 @@ Example:
 Sai Kolli: Hi! This is Sai Kolli, I am currently working as a Java full Stack Developer and I do have 7+ years of experience
 in the software industry. I am expertise in Java and React.
 
+===========================================================================================================================
+
+kavya sri : hi! This kavya sri ,i completed my masters in cs from wilmington university
+
 
 ===============================================================================================================================
 
